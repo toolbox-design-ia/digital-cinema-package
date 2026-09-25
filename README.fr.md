@@ -2,7 +2,7 @@
 
 # Digital Cinema Package — Commandes et fichiers du livre
 
-Dépôt companion (Studio35). Chaque dossier de `capitulos/` contient les blocs exécutables imprimés dans ce chapitre.
+Dépôt companion (Toolbox Design). Chaque dossier de `capitulos/` contient les blocs exécutables imprimés dans ce chapitre.
 
 ## Licence
 

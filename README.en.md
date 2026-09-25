@@ -2,7 +2,7 @@
 
 # Digital Cinema Package — Book commands and files
 
-Companion repository (Studio35). Each folder under `capitulos/` contains the executable blocks printed in that chapter, named after the section that explains them: copy, adjust paths, run.
+Companion repository (Toolbox Design). Each folder under `capitulos/` contains the executable blocks printed in that chapter, named after the section that explains them: copy, adjust paths, run.
 
 ## License
 
